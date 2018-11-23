@@ -6,5 +6,18 @@
 
 .title
 {
-	margin-top: -200px;
+	margin-top: -1550px;
+	margin-left: 85px;
+}
+
+.img
+{
+	width: 115px;
+	height: 75px;
+}
+
+div.botão
+{
+	margin-top: -610px;
+	margin-left: 90px;
 }
