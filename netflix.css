@@ -1,21 +1,12 @@
-.botao1 
-{ 
-	margin-left: 1500px; 
-	margin-top: -50px;
-}
-
-.botao2 
+.img
 {
-	margin-left: 1580px;
-	margin-top: -38px;
+	width: 15%; 
+	height: 10%;
+	margin-left: 40%;
+	margin-top: -80%;
 }
-
-div.logo 
-{
-	margin-left: 50px;
-}
-
 div.letra
+
 {
 	color:white;
 	font-family:Arial;
@@ -26,3 +17,83 @@ div.letrinha
 	color:white;
 	font-family: Arial;
 }
+
+.fundo
+{
+	width: 110%;
+	height: 90%;
+	margin-top: -20%;
+	background-image: linear-gradient(black,grey);
+}
+
+div.botao
+{
+	margin-left: 90%;
+	margin-top: -42%;
+}
+
+.text
+{
+	font-size: 70px;
+	color: white;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+	margin-left: 20%;
+	margin-top: 5%;
+}
+
+.texto
+{
+	text-align: center;
+	color:white;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 24px;
+}
+
+.btn.btn-danger
+{
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+	margin-left: 40%;
+	margin-top: 5%;
+}
+
+.navs
+{
+	margin-top: 10%;
+}
+
+.T
+{
+	color: white;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 24px;
+}
+
+.T2
+{
+	color: white;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 24px;
+}
+
+.T3
+{
+	color: white;
+	font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+	font-size: 24px;
+}
+
+.texto3
+{
+	margin-top: 10%;
+	margin-left: 15%;
+}
+
+.tin-large-image-tag
+{
+	height: 90%;
+	width: 30%;
+	margin-left: 55%;
+	margin-top: -20%;
+}
+
+
